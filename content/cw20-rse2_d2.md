@@ -84,14 +84,14 @@ RSE2-D2 is a twitter bot providing advice about creating/maintaining research so
 
 
 
-![The rse_d2 bot in action.](images/cw20-rse_d2.jpg)
+![The rse_d2 bot in action.](../images/cw20-rse_d2.jpg)
 
 
 
 
 
 
-![alt_text](images/cw20-rse2_d22.jpg)
+![alt_text](../images/cw20-rse2_d22.jpg)
 
 
 

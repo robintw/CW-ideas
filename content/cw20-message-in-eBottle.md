@@ -22,7 +22,7 @@ Shoaib Sufi ([shoaib.sufi@software.ac.uk](mailto:shoaib.sufi@software.ac.uk)), C
 
 
 
-![A message in e Bottle](images/cw20-ebottle.jpg)
+![A message in e Bottle](../images/cw20-ebottle.jpg)
 
 
 Original slide at - **_[https://docs.google.com/presentation/d/1GbwxVrWpqw_Nk9Mg9dinLUUThHSfetVsg7KD2SiGIkk/edit?usp=sharing](https://docs.google.com/presentation/d/1GbwxVrWpqw_Nk9Mg9dinLUUThHSfetVsg7KD2SiGIkk/edit?usp=sharing) _**

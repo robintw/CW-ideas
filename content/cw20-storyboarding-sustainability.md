@@ -81,7 +81,7 @@ We could ask our CW20 attendee colleagues for horror stories for non-sustainable
 
 
 
-![xkcd 242 - the difference](images/xkcd-242.jpg)
+![xkcd 242 - the difference](../images/xkcd-242.jpg)
 
 
 The Difference ([https://www.xkcd.com/242/](https://www.xkcd.com/242/))

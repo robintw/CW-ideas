@@ -54,7 +54,7 @@ New university students often do not have the skills expected when they begin th
 
 
 
-![New grades for GCSEs table](images/cw20-grades.jpg)
+![New grades for GCSEs table](../images/cw20-grades.jpg)
 
 
 

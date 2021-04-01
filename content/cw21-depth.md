@@ -69,7 +69,7 @@ Our view of how a “treasure hunt” would work:
 
 
 
-![Treasure hunt flow diagram.](images/treasure-hunt.jpg)
+![Treasure hunt flow diagram.](../images/treasure-hunt.jpg)
 
 
 _[https://docs.google.com/presentation/d/1g-CBDLqARbWfo82Dkw9H3REcQ4LE_5mcKmwzZR60Zsc/edit?usp=sharing](https://docs.google.com/presentation/d/1g-CBDLqARbWfo82Dkw9H3REcQ4LE_5mcKmwzZR60Zsc/edit?usp=sharing) _
@@ -80,7 +80,7 @@ And for those who have felt the pain of searching for solutions online, we give 
 
 
 
-![xkcd 979 cartoon.](images/xkcd-979.jpg)
+![xkcd 979 cartoon.](../images/xkcd-979.jpg)
 _([https://xkcd.com/979/](https://xkcd.com/979/)  licensed CC BY-NC 2.5)_
 
 _Thanks for reading!_

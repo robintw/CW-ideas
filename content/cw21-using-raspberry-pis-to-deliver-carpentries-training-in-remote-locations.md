@@ -91,5 +91,5 @@ The work could be broken down as follows:
 
 _You can include diagrams in this section. Please ensure you have the right to use the image(s), and include an attribution if applicable._
 
-![alt_text](images/RPi_Carpentry_Remote_1.png "image_tooltip")
+![alt_text](../images/RPi_Carpentry_Remote_1.png "image_tooltip")
 

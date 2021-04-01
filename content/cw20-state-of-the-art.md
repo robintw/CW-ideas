@@ -73,7 +73,7 @@ Finally we want to consider the possible biases and other ethical considerations
 ##### 
 
 
-![Mock interface to search for papers and code.](images/cw20-papers.jpg)
+![Mock interface to search for papers and code.](../images/cw20-papers.jpg)
 
 
 

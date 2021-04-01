@@ -114,7 +114,7 @@ _You can include one or two diagrams in this section. Please ensure you have the
 
 
 
-![The future of conferences?](images/cw20-conf.jpg)
+![The future of conferences?](../images/cw20-conf.jpg)
 
 
 

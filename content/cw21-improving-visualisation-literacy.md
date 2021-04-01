@@ -75,12 +75,12 @@ _You can include one or two diagrams in this section. Please ensure you have the
 
 
 
-![alt_text](images/graph1.jpg)
+![alt_text](../images/graph1.jpg)
 
 
 
 
-![alt_text](images/graph2.jpg)
+![alt_text](../images/graph2.jpg)
 
 
 _(https://towardsdatascience.com/stopping-covid-19-with-misleading-graphs-6812a61a57c9)_

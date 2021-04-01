@@ -123,7 +123,7 @@ _“Time - how much time a researcher _
 
 Emmy:
 
-![A distressed student.](images/student.jpg)
+![A distressed student.](../images/student.jpg)
 
 
 

@@ -83,7 +83,7 @@ _You can include one or two diagrams in this section. Please ensure you have the
 ###
 
 
-![Flow of the notebook processing.](images/cw20-notebook-flow.jpg)
+![Flow of the notebook processing.](../images/cw20-notebook-flow.jpg)
 
 
 
