@@ -10,6 +10,7 @@ author:
 year: 2021
 type: collaborative-ideas
 tags:
+- funding
 ---
 
 ### CW21 - 2021-03-30

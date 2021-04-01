@@ -8,6 +8,9 @@ author:
 year: 2021
 type: collaborative-ideas
 tags:
+- video
+- training
+- citation
 ---
 ### CW21 - 2021-03-30
 

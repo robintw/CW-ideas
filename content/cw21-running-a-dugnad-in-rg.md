@@ -8,6 +8,7 @@ title: Running a dugnad in a research group
 year: 2021
 type: collaborative-ideas
 tags:
+- training
 ---
 
 ### CW21 - 2021-03-30

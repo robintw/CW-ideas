@@ -9,6 +9,8 @@ author:
 year: "2020"
 type: collaborative-ideas
 tags:
+- research
+- data-analysis
 ---
 ### CW20 - 2020-03-31 to 2020-04-02
 

@@ -1,5 +1,5 @@
 ---
-title: "Message in e Bottle: work more effectively with ephemeral teams across timezones"
+title: "Message in e-Bottle: work more effectively with ephemeral teams across timezones"
 author:
 - Shoaib Sufi 
 - Carlos Martinez 
@@ -9,6 +9,8 @@ author:
 year: 2020
 type: collaborative-ideas
 tags:
+- team-work
+- collaboration
 ---
 ### CW20 - 2020-03-31 to 2020-04-02
 

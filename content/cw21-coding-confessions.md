@@ -6,6 +6,7 @@ year: 2021
 type: hackday
 tags:
 - workshop
+- training
 ---
 
 
