@@ -10,3 +10,9 @@ To contribute to the repository - either by adding new ideas from previous CWs, 
 This repository is licensed under the MIT license, and all the ideas themselves are CC-BY (this is mentioned at the bottom of each idea).
 
 The team creating this was Mario Antonioletti, Heather Turner and Robin Wilson.
+
+## Building locally
+The repository is automatically built and deployed on every push, but if you want to build locally for testing or debugging purposes, follow the instructions below:
+1. Install [Hugo](https://gohugo.io/getting-started/installing/)
+2. In the root of the repo, run `hugo server`
+3. The site will be built, and served on localhost - see the command-line output for the full URL

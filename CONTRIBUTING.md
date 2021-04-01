@@ -64,4 +64,4 @@ Specifically, note that:
 The file should be saved in the `ideas` directory, with a name formatted as `cwXX-title-here-separated-by-dashes.md`. For example, `ideas/cw21-using-raspberry-pis-to-deliver-carpentries-training-in-remote-locations.md`. If the idea title is extremely long then a shortened version can be used for the filename.
 
 ## Contributing to the website code
-**TODO**
+The templates for the website are in `themes/PaperMod/layouts` and the 'special pages' (like the 'By Year' view) are defined as special markdown pages in `content`. Please see the [Hugo documentation](https://gohugo.io/documentation/) for more information on how to edit these.
