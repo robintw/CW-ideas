@@ -7,7 +7,7 @@ author:
 - Bezaye Tesfaye
 - Neil Chue Hong
 - Richard Darst
-year: 2020
+year: "2020"
 type: collaborative-ideas
 tags:
 ---

@@ -6,7 +6,7 @@ author:
 - Pablo Bernabeu
 - Frances Cooper
 - Tania Allard
-year: 2020
+year: "2020"
 type: collaborative-ideas
 tags:
 ---

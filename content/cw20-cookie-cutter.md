@@ -7,7 +7,7 @@ author:
 - Malvika Sharan
 - Jo Leng
 - Mateusz Kuzak
-year: 2020
+year: "2020"
 type: collaborative-ideas
 tags:
 ---
@@ -62,7 +62,7 @@ Can we put these ideas as chapters in the Turing way?
 
 
 *   Here is a preview that has only placeholders for things that are planned but don’t exist: [https://deploy-preview-977--the-turing-way.netlify.com/welcome](https://deploy-preview-977--the-turing-way.netlify.com/welcome)
-*   Here is a  PR on remote collaboration: [https://github.com/alan-turing-institute/the-turing-way/pull/962](https://github.com/alan-turing-institute/the-turing-way/pull/962) 
+*   Here is a PR on remote collaboration: [https://github.com/alan-turing-institute/the-turing-way/pull/962](https://github.com/alan-turing-institute/the-turing-way/pull/962)
 *   Content ideas for remote collaboration: [https://github.com/alan-turing-institute/the-turing-way/tree/ms-collaboration-book/book/content/remote_collaboration](https://github.com/alan-turing-institute/the-turing-way/tree/ms-collaboration-book/book/content/remote_collaboration) 
 *   Checklists on the online events: [https://github.com/alan-turing-institute/the-turing-way/blob/ms-collaboration-book/book/content/remote_collaboration/checklist/checklist.md](https://github.com/alan-turing-institute/the-turing-way/blob/ms-collaboration-book/book/content/remote_collaboration/checklist/checklist.md) 
 *   What’s missing is how to support an online community that is being formed due to your event (i.e. hackathon etc.)?

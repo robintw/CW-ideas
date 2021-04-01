@@ -50,7 +50,7 @@ _Discussion_
     *   _Perhaps also have a linter for checking validity of Cucumber/Notebook descriptions_
     *   _MoSCoW - MH - 60%, SH - 20%, CH - 20%. Perhaps something here to fit behaviour back to requirements?_
     *   _Use BDD markups after the fact (e.g. JIT) to describe behaviour (at the point where you wish to go beyond exploratory development)_
-    *   _Behave (Python) package: BDD descriptions in code/notebooks - explore this repository and add to it? [https://pypi.org/project/behave/](https://pypi.org/project/behave/) _
+    *   _Behave (Python) package: BDD descriptions in code/notebooks - explore this repository and add to it? [https://pypi.org/project/behave/](https://pypi.org/project/behave/)_
 *   _Add template to a notebook with a pre-populated structure, e.g. start notebook, starts with that templated structure_
 
 
