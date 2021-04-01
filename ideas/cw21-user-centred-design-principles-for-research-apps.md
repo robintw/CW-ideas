@@ -65,10 +65,10 @@ For tools, we could develop a website to check how our app / website might be us
 
 
 
-![alt_text](images/tooltip1.png)
+![alt_text](images/tooltip1.jpg)
 
 
-![alt_text](images/tooltip2.png)
+![alt_text](images/tooltip2.jpg)
 
 
 
