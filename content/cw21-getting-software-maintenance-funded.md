@@ -123,7 +123,7 @@ _Possible models include:_
 _You can include one or two diagrams in this section. Please ensure you have the right to use the image(s), and include an attribution if applicable._
 
 
-![Funding lines.](images/funding.jpg)
+![Funding lines.](../images/funding.jpg)
 
 
 ### Licence

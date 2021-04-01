@@ -49,7 +49,7 @@ This should be a minimal amount of work to encourage people to consider maintena
 * Do you support/help track forks for new development?
 
 # Diagrams / Illustrations
-![](../https://i.imgur.com/unGDJYH.png)
+![](https://i.imgur.com/unGDJYH.png)
 
 
 # Licence

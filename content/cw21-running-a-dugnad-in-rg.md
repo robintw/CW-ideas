@@ -108,7 +108,7 @@ Things that might happen at a successful Dugnad:
 _You can include one or two diagrams in this section. Please ensure you have the right to use the image(s), and include an attribution if applicable._
 
 
-![People gathered round a table](images/people.jpg "image_tooltip")
+![People gathered round a table](../images/people.jpg "image_tooltip")
 
 
 Unsplash reference: https://unsplash.com/photos/TdpSX7XAcKo
