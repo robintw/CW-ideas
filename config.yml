@@ -69,7 +69,15 @@ menu:
         - identifier: tags
           name: Tags
           url: /tags/
-          weight: 30
+          weight: 10
+        - identifier: byyear
+          name: By year
+          url: /byyear/
+          weight: 20
+        - identifier: bytype
+          name: By type
+          url: /bytype/
+          weight: 25
         - identifier: search
           name: Search
           url: /search

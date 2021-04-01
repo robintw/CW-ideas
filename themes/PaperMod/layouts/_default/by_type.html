@@ -6,7 +6,7 @@
         {{ end }}
       </header>
       <br>
-      {{ range (.Site.RegularPages.GroupByParam "year").Reverse}}
+      {{ range (.Site.RegularPages.GroupByParam "type").Reverse}}
        <h3>{{ .Key }}</h3>
       <div>
           <ul>
