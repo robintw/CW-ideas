@@ -64,12 +64,10 @@ For tools, we could develop a website to check how our app / website might be us
 
 
 
+![Original image.](images/tooltip1.jpg)
 
-![alt_text](images/tooltip1.jpg)
 
-
-![alt_text](images/tooltip2.jpg)
-
+![As a colour blind person might see it.](images/tooltip2.jpg)
 
 
 ### Licence
