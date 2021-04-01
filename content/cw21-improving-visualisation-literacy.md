@@ -7,8 +7,9 @@ author:
 - Will Furnass
 - Patricia Herterich
 year: 2021
-type: collaborative-ideas
+type: collaborative ideas
 tags:
+- training
 ---
 
 ### CW21 - 2021-03-30

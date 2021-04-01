@@ -6,7 +6,7 @@ title: Running a dugnad in a research group
 # - Warrick Ball
 # - Neil Chue Hong
 year: 2021
-type: collaborative-ideas
+type: collaborative ideas
 tags:
 - training
 ---
