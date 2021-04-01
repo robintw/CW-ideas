@@ -64,7 +64,7 @@ Later, an AI-based recommender system can suggest useful learning paths based on
 
 
 
-![Flow of the Carpentries framework](../static/images/cw21-carpentries-flow.jpg)
+![Flow of the Carpentries framework](../images/cw21-carpentries-flow.jpg)
 
 
 
