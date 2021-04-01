@@ -1,5 +1,5 @@
 ---
-title: Conferencing 3.0: ensuring equality for in-person and online participants
+title: "Conferencing 3.0: ensuring equality for in-person and online participants"
 author:
 - Emily Lewis
 - Esther Asef

@@ -1,6 +1,5 @@
-
 ---
-title: Message in e Bottle: work more effectively with ephemeral teams across timezones.
+title: "Message in e Bottle: work more effectively with ephemeral teams across timezones"
 author:
 - Shoaib Sufi 
 - Carlos Martinez 
