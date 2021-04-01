@@ -47,13 +47,10 @@ params:
         - name: github
           url: "https://github.com/"
 
-    # cover:
-    #     hidden: true # hide everywhere but not in structured data
-    #     hiddenInList: true # hide on list pages and home
-    #     hiddenInSingle: true # hide on single page
+    defaultMode: true
 
     editPost:
-        URL: "https://github.com/robintw/CW-ideas/blob/main/website/content"
+        URL: "https://github.com/robintw/CW-ideas/blob/ideas/"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 

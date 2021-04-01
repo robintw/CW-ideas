@@ -1,0 +1,18 @@
+{{ define "main" }}
+    <main aria-role="main">
+      <header class="homepage-header">
+        {{ with .Params.subtitle }}
+        <span class="subtitle">{{.}}</span>
+        {{ end }}
+      </header>
+      <div><p>This site lists collab ideas and blah blah blah. A random selection are shown below:</p></div>
+      <br>
+      <div>
+          <ul>
+        {{range .Site.RegularPages | shuffle | first 5}}
+<li><a href="{{.Permalink}}">{{.Title}}</a></li>
+{{end}}
+</ul>
+      </div>
+    </main>
+{{ end }}
