@@ -31,7 +31,7 @@ title:
 author:
 - 
 year: 2021
-type: hackday
+type: hack day
 tags: 
 ---
 ```
@@ -48,7 +48,7 @@ author:
 - Talia Caplan
 - Jannetta Steyn
 year: 2021
-type: hackday
+type: hack day
 tags: software-carpentry training
 ---
 ```
@@ -58,7 +58,7 @@ Specifically, note that:
 - The `author` is a YAML list of authors, one per line
 - The `year` is the year of the Collaborations Workshop where the idea was proposed
 - The `type` is either `hackday` for a Hack Day idea or `collaborative-idea` for a Collaborative Idea
-- The `tags` contain a space-separated list of tags for the idea. If a tag consists of multiple words, they should be separated by a dash (`-`)
+- The `tags` contains a list (one per line) of tags for the entry
 
 ### Save the file
 The file should be saved in the `ideas` directory, with a name formatted as `cwXX-title-here-separated-by-dashes.md`. For example, `ideas/cw21-using-raspberry-pis-to-deliver-carpentries-training-in-remote-locations.md`. If the idea title is extremely long then a shortened version can be used for the filename.
