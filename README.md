@@ -16,3 +16,14 @@ The repository is automatically built and deployed on every push, but if you wan
 1. Install [Hugo](https://gohugo.io/getting-started/installing/)
 2. In the root of the repo, run `hugo server`
 3. The site will be built, and served on localhost - see the command-line output for the full URL
+
+
+## Task split during the hack day
+- Heather Turner: The brains behind the idea
+- Robin Wilson: The technical guru
+- Mario Antonioletti: The plodder with superpowers 
+
+Tasks divided orthogonally
+- Conversion of past google doc proposals to markdown (Mario and Robin)
+- Configuring and setting up Hugo (Robin and Heather)
+- Provisioning a GitHub repo (Robin)
