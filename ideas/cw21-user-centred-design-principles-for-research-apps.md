@@ -65,10 +65,10 @@ For tools, we could develop a website to check how our app / website might be us
 
 
 
-![alt_text](images/tooltip1.png)
+![Original image.](./images/tooltip1.png)
 
 
-![alt_text](images/tooltip2.png)
+![As someone who is colour blind might see it.](./images/tooltip2.png)
 
 
 
