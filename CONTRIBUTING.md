@@ -57,7 +57,7 @@ Specifically, note that:
 - The `title` is the full text title of the idea, not the ID number or ID name (eg. 'Garfield') used for the idea. This can often be found under the _Idea Name_ heading in the document. If it has special characters in it like `:` or `&` then wrap the title in double-quotes.
 - The `author` is a YAML list of authors, one per line
 - The `year` is the year of the Collaborations Workshop where the idea was proposed
-- The `type` is either `hackday` for a Hack Day idea or `collaborative-idea` for a Collaborative Idea
+- The `type` is either `hack day` for a Hack Day idea or `collaborative idea` for a Collaborative Idea
 - The `tags` contains a list (one per line) of tags for the entry
 
 ### Save the file
