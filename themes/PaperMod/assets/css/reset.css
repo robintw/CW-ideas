@@ -4,6 +4,10 @@
     box-sizing: border-box
 }
 
+.main a {
+        color: #c00;
+}
+
 html {
     -webkit-tap-highlight-color: transparent;
     overflow-y: scroll;
