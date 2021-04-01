@@ -41,7 +41,7 @@ _This document should be used to capture the information for a Collaborative Ses
 ### ConnECT ProjECT - an Exciting Collaboration Tool for discovering project similarities
 
 
-![Connect word cloud](../static/images/cw21-connect.jpg)
+![Connect word cloud](../images/cw21-connect.jpg)
 
 
 
