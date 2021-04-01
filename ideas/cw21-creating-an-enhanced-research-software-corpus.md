@@ -5,7 +5,9 @@ author:
 - Stephan Druskat
 year: 2021
 type: hackday
-tags: data-analysis research
+tags:
+- data-analysis
+- research
 ---
 
 

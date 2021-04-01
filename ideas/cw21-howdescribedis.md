@@ -8,7 +8,11 @@ author:
 - Paddy McCann
 year: 2021
 type: hackday
-tags: tool extension reproducibility citation
+tags:
+- tool
+- extension
+- reproducibility
+- citation
 ---
 
 ### CW21 Hack Day - 2021-03-31 to 2021-04-01

@@ -5,7 +5,9 @@ author:
 - Thibault Lestang
 year: 2021
 type: hackday
-tags: interdisciplinary training
+tags:
+- interdisciplinary
+- training
 ---
 
 ### CW21 Hack Day - 2021-03-31 to 2021-04-01

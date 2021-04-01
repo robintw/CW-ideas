@@ -1,5 +1,5 @@
 ---
-title: _How to encourage and ensure software maintenance gets sufficiently funded._
+title: How to encourage and ensure software maintenance gets sufficiently funded
 author:
 - Sorrel Harriet
 - Teri Forey

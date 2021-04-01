@@ -1,5 +1,5 @@
 ---
-title: 
+title: End of Life Plans for Software
 author:
 - Eli Chadwick
 - Iain Barrass

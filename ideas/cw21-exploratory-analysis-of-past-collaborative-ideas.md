@@ -4,7 +4,9 @@ author:
 - Heather Turner
 year: 2021
 type: hackday
-tags: collaborations-workshop data-analysis
+tags:
+- collaborations-workshop
+- data-analysis
 ---
 
 ### CW21 Hack Day - 2021-03-31 to 2021-04-01
