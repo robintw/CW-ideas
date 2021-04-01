@@ -5,7 +5,8 @@ author:
 - Malin Sandstrom
 year: 2021
 type: hackday
-tags: credit
+tags:
+- credit
 ---
 
 ### CW21 Hack Day - 2021-03-31 to 2021-04-01

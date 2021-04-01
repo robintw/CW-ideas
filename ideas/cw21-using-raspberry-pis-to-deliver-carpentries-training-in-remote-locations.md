@@ -8,7 +8,9 @@ author:
 - Jannetta Steyn
 year: 2021
 type: hackday
-tags: software-carpentry training
+tags:
+- software-carpentry
+- training
 ---
 
 ### CW21 Hack Day - 2021-03-31 to 2021-04-01

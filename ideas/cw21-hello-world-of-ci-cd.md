@@ -4,7 +4,9 @@ author:
 - Sorrel Harriet
 year: 2021
 type: hackday
-tags: skills, reproducibility
+tags:
+- skills
+- reproducibility
 ---
 
 

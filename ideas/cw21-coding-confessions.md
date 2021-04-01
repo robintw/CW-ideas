@@ -4,7 +4,8 @@ author:
 - Colin Sauze
 year: 2021
 type: hackday
-tags: workshop
+tags:
+- workshop
 ---
 
 

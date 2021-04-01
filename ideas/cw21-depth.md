@@ -1,5 +1,5 @@
 ---
-title: DEPTH: Developer error/problem treasure hunt!
+title: "DEPTH: Developer error/problem treasure hunt!"
 author:
 - Matt Cannon
 - Dominic Kempf
