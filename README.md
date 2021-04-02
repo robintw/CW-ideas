@@ -27,3 +27,6 @@ Tasks divided orthogonally
 - Conversion of past google doc proposals to markdown (Mario and Robin)
 - Configuring and setting up Hugo (Robin and Heather)
 - Provisioning a GitHub repo (Robin)
+
+## Hack day presentation
+Available [here](https://docs.google.com/presentation/d/1GOjaNzfhDBwjr1lmJOlYjHYNzxpctGAla5PxpZDzOIQ/edit?usp=sharing)
