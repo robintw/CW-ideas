@@ -35,7 +35,9 @@ Emmy Tsang - e.tsang@elifesciences.org
 Anna Krystalli - a.krystalli@sheffield.ac.uk
 David Gillespie - d.gillespie@mmu.ac.uk
 This document should be used to capture the information for a Hack Day Idea.
-Context / Research Domain There are comprehensive, large sets of guidelines on software engineering/research data best practices, but these are often difficult to digest and not easy to act upon.</description></item><item><title>Coding Confessions</title><link>https://robintw.github.io/CW-ideas/cw21-coding-confessions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://robintw.github.io/CW-ideas/cw21-coding-confessions/</guid><description>CW21 Hack Day - 2021-03-31 to 2021-04-01 Blanch-1943 - HP3-CW21
+Context / Research Domain There are comprehensive, large sets of guidelines on software engineering/research data best practices, but these are often difficult to digest and not easy to act upon.</description></item><item><title>Code-literate peer-review for everyone</title><link>https://robintw.github.io/CW-ideas/cw19-code-review/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://robintw.github.io/CW-ideas/cw19-code-review/</guid><description>Context / Research Domain The peer-review process in academia
+Problem Peer-reviewers are often not code literate, so even if someone writes/uses code in the research and claims to publish it openly and well (with zenodo DOI and CFF file etc), the reviewers (who may be experts in the field) may not have the expertise to check the quality/reproducibility of the code (and the data)
+Solution A service and a set of guidelines that allows code-literate reviewers to register e.</description></item><item><title>Coding Confessions</title><link>https://robintw.github.io/CW-ideas/cw21-coding-confessions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://robintw.github.io/CW-ideas/cw21-coding-confessions/</guid><description>CW21 Hack Day - 2021-03-31 to 2021-04-01 Blanch-1943 - HP3-CW21
 Hack Day idea proposer Colin Sauze
 This document should be used to capture the information for a Hack Day Idea.
 Idea name (provisional) Coding Confessions
