@@ -170,7 +170,16 @@ Daniel S Katz
 Carina Haupt
 Callum Rollo
 Title: Open Source Covid Analysis of References (OSCAR) Context / Research Domain Please describe the context or research domain to which the problem applies
-Software’s use in the Covid19 pandemic is somewhat hidden but ubiquitous. Understanding the impact of software in the pandemic would give it the credit that software deserves, raise its profile and potentially highlight the software readiness that would help in any future public health emergency.</description></item><item><title>Reproducibility and Collaboration Challenges in interactive / exploratory research</title><link>https://robintw.github.io/CW-ideas/cw19-repro-challenges/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://robintw.github.io/CW-ideas/cw19-repro-challenges/</guid><description>Collaborations Workshop 2019 (CW19) #CollabW19 2019-04-01 to 2019-04-03 Reproducibility and Collaboration Challenges in interactive / exploratory research
+Software’s use in the Covid19 pandemic is somewhat hidden but ubiquitous. Understanding the impact of software in the pandemic would give it the credit that software deserves, raise its profile and potentially highlight the software readiness that would help in any future public health emergency.</description></item><item><title>Ready to deposit?</title><link>https://robintw.github.io/CW-ideas/cw19-ready2deposit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://robintw.github.io/CW-ideas/cw19-ready2deposit/</guid><description>Collaborations Workshop 2019 (CW19) #CollabW19 2019-04-01 to 2019-04-03 Discussion group 8 - Ready to deposit? - CI14-CW2CC
+Reporter Stephan Druskat - stephan.druskat@dlr.de
+Participants Emily Bell
+Dav Clark
+Stephan Druskat
+Robert Haines
+Patrick McCann
+Tom Russell
+Initial ideas discussion
+Guidance for researchers on how to deposit software Ref: “Software Deposit: What to deposit” https://doi.org/10.5281/zenodo.1327325 Tool: Repository checker for what to deposit? Tool that checks all necessary files and metadata is available for As a GitHub commit probot?</description></item><item><title>Reproducibility and Collaboration Challenges in interactive / exploratory research</title><link>https://robintw.github.io/CW-ideas/cw19-repro-challenges/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://robintw.github.io/CW-ideas/cw19-repro-challenges/</guid><description>Collaborations Workshop 2019 (CW19) #CollabW19 2019-04-01 to 2019-04-03 Reproducibility and Collaboration Challenges in interactive / exploratory research
 Reporter Adam Jackson - magicguy@gmail.com
 Participants Dav Clark
 Programmer / Evangelist at Gigantum.
