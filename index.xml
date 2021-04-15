@@ -9,7 +9,17 @@ Ben Krikler
 Anastasis Georgoulas
 Matthew Bluteau
 Steve Crouch
-This document should be used to capture the information for a Collaborative Session / Hack Day Idea. (The total amount of text should ideally be between 100-300 words and you can include a diagram or two). The document should be no larger than two pages of A4.</description></item><item><title>Automating Screenshots for Documentation</title><link>https://robintw.github.io/CW-ideas/cw19-automatingscreenshots/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://robintw.github.io/CW-ideas/cw19-automatingscreenshots/</guid><description>Collaborations Workshop 2019 (CW19) #CollabW19 2019-04-01 to 2019-04-03 Automating Screenshots for Documentation - HP4-CW2CC
+This document should be used to capture the information for a Collaborative Session / Hack Day Idea. (The total amount of text should ideally be between 100-300 words and you can include a diagram or two). The document should be no larger than two pages of A4.</description></item><item><title>Aligning the Citation File Format and CodeMeta</title><link>https://robintw.github.io/CW-ideas/cw18-cff-codemeta/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://robintw.github.io/CW-ideas/cw18-cff-codemeta/</guid><description>Collaborations Workshop 2018 - 2018-03-26
+Aligning the Citation File Format and CodeMeta -
+HP3-CW18
+Hackday Idea Proposer
+Stephan Druskat - stephan.druskat@hu-berlin.de
+This document should be used to capture the information for a Hack Day Idea.
+Context / Research Domain
+The domain is: Software Citation Implementations
+Problem
+The Citation File Format (CFF, https://citation-file-format.github.io) is a human-writable and -readable, machine-readable format for the provision of software citation metadata.
+As such, it should be aligned with the evolving standard for providing *general* software metadata, CodeMeta (https://codemeta.</description></item><item><title>Automating Screenshots for Documentation</title><link>https://robintw.github.io/CW-ideas/cw19-automatingscreenshots/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://robintw.github.io/CW-ideas/cw19-automatingscreenshots/</guid><description>Collaborations Workshop 2019 (CW19) #CollabW19 2019-04-01 to 2019-04-03 Automating Screenshots for Documentation - HP4-CW2CC
 Hackday Idea Proposer Colin Sauze - cos@aber.ac.uk
 This document should be used to capture the information for a Hack Day Idea.
 Context / Research Domain Please describe the context or research domain to which the problem applies
