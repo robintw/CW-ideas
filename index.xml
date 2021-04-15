@@ -19,7 +19,14 @@ Context / Research Domain
 The domain is: Software Citation Implementations
 Problem
 The Citation File Format (CFF, https://citation-file-format.github.io) is a human-writable and -readable, machine-readable format for the provision of software citation metadata.
-As such, it should be aligned with the evolving standard for providing *general* software metadata, CodeMeta (https://codemeta.</description></item><item><title>Automating Screenshots for Documentation</title><link>https://robintw.github.io/CW-ideas/cw19-automatingscreenshots/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://robintw.github.io/CW-ideas/cw19-automatingscreenshots/</guid><description>Collaborations Workshop 2019 (CW19) #CollabW19 2019-04-01 to 2019-04-03 Automating Screenshots for Documentation - HP4-CW2CC
+As such, it should be aligned with the evolving standard for providing *general* software metadata, CodeMeta (https://codemeta.</description></item><item><title>Automated Network Map construction</title><link>https://robintw.github.io/CW-ideas/cw18-autonetworkmapconstr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://robintw.github.io/CW-ideas/cw18-autonetworkmapconstr/</guid><description>Collaborations Workshop 2018 - 2018-03-26
+Automated Network Map construction -
+HP13-CW18 Hackday Idea Proposer
+Diana Suleimenova - diana.n.suleimenova@gmail.com
+This document should be used to capture the information for a Hack Day Idea.
+Context / Research Domain
+Please describe the context or research domain to which the problem applies
+An idea of constructing an automated network maps initiated from refugee simulation context. However, this can be useful for other scenarios where researchers or practitioners have multiple locations and require to know how these locations are connected and their distances represented visually.</description></item><item><title>Automating Screenshots for Documentation</title><link>https://robintw.github.io/CW-ideas/cw19-automatingscreenshots/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://robintw.github.io/CW-ideas/cw19-automatingscreenshots/</guid><description>Collaborations Workshop 2019 (CW19) #CollabW19 2019-04-01 to 2019-04-03 Automating Screenshots for Documentation - HP4-CW2CC
 Hackday Idea Proposer Colin Sauze - cos@aber.ac.uk
 This document should be used to capture the information for a Hack Day Idea.
 Context / Research Domain Please describe the context or research domain to which the problem applies
