@@ -1,4 +1,11 @@
-
+---
+title: "Carpentries platform to support translations"
+author:
+- David Pérez-Suárez
+year: 2018
+type: hack-ideas
+tags:
+---
 
 Collaborations Workshop 2018 - 2018-03-26
 
