@@ -161,7 +161,14 @@ This is the provisional name of the Idea, solution or just a title; this can be 
 Hack Day idea proposer Heather Turner
 This document should be used to capture the information for a Hack Day Idea.
 Idea name (provisional) This is the provisional name of the Idea, solution or just a title; this can be changed later if a team is formed and you decide on a new team/product name.
-Exploratory analysis of past Collaborative Ideas</description></item><item><title>GitHub annotator/failure map</title><link>https://robintw.github.io/CW-ideas/cw19-gh-annotator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://robintw.github.io/CW-ideas/cw19-gh-annotator/</guid><description>Collaborations Workshop 2019 (CW19) #CollabW19 2019-04-01 to 2019-04-03 GitHub annotator/failure map - HP5-CW2CC
+Exploratory analysis of past Collaborative Ideas</description></item><item><title>Geospatial metadata sharing</title><link>https://robintw.github.io/CW-ideas/cw18-geospatialmetadatasharing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://robintw.github.io/CW-ideas/cw18-geospatialmetadatasharing/</guid><description>Collaborations Workshop 2018 - 2018-03-26
+Geospatial metadata sharing
+http://swdg.io/cw18- HP11-CW18
+Hackday Idea Proposer
+Stuart Grieve - stuart.grieve@gmail.com
+This document should be used to capture the information for a Hack Day Idea.
+Context / Research Domain
+Earth scientists who use topography data have a number of recognised data formats for their grids. These files are O(100) MBs to O(10) GBs, and while there is infrastructure to manipulate these files, there is no easy way to share, regenerate, or even uniquely identify grids.</description></item><item><title>GitHub annotator/failure map</title><link>https://robintw.github.io/CW-ideas/cw19-gh-annotator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://robintw.github.io/CW-ideas/cw19-gh-annotator/</guid><description>Collaborations Workshop 2019 (CW19) #CollabW19 2019-04-01 to 2019-04-03 GitHub annotator/failure map - HP5-CW2CC
 Hackday Idea Proposer Ilektra Christidi - ilektra.christidi@ucl.ac.uk
 Context / Research Domain Documentation in general, but especially for software project handover. All research domains.
 Problem Quite often, a lot of the detail of how and why a piece of software has been developed the way it did, is hidden inside GitHub Issue and PR discussion threads.
