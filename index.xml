@@ -72,7 +72,17 @@ Context / Research Domain
 Visualisation is important to most researchers, but we often don’t get much training in how to do it well.
 Problem
 Description of the problem you are trying to solve
-Almost all researchers have to visualise data in some way, but in general (like Makefiles and many other things) we tend to learn a few simple examples and stick with them, even if they are not the most effective, efficient or exciting.</description></item><item><title>Code-literate peer-review for everyone</title><link>https://robintw.github.io/CW-ideas/cw19-code-review/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://robintw.github.io/CW-ideas/cw19-code-review/</guid><description>Context / Research Domain The peer-review process in academia
+Almost all researchers have to visualise data in some way, but in general (like Makefiles and many other things) we tend to learn a few simple examples and stick with them, even if they are not the most effective, efficient or exciting.</description></item><item><title>Code is Science Manifesto</title><link>https://robintw.github.io/CW-ideas/cw18-codeissciencemanifesto/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://robintw.github.io/CW-ideas/cw18-codeissciencemanifesto/</guid><description>Collaborations Workshop 2018 - 2018-03-26
+Code is Science Manifesto - HP10-CW18
+Hackday Idea Proposer
+Yo Yehudi - yochannah@gmail.com
+This document should be used to capture the information for a Hack Day Idea.
+Slides:
+https://docs.google.com/presentation/d/1OeaUt5UtSwVGxGv2uWqZoNBPvNzJFQyoYQg3isuXBcY/edit#slide=id.p
+Context / Research Domain
+All scientific code!
+Problem
+Science is often computing: Much of modern science involves code these days, in large part due to the amount of data available - it would be almost impossible to analyse without computational assistance.</description></item><item><title>Code-literate peer-review for everyone</title><link>https://robintw.github.io/CW-ideas/cw19-code-review/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://robintw.github.io/CW-ideas/cw19-code-review/</guid><description>Context / Research Domain The peer-review process in academia
 Problem Peer-reviewers are often not code literate, so even if someone writes/uses code in the research and claims to publish it openly and well (with zenodo DOI and CFF file etc), the reviewers (who may be experts in the field) may not have the expertise to check the quality/reproducibility of the code (and the data)
 Solution A service and a set of guidelines that allows code-literate reviewers to register e.</description></item><item><title>Coding Confessions</title><link>https://robintw.github.io/CW-ideas/cw21-coding-confessions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://robintw.github.io/CW-ideas/cw21-coding-confessions/</guid><description>CW21 Hack Day - 2021-03-31 to 2021-04-01 Blanch-1943 - HP3-CW21
 Hack Day idea proposer Colin Sauze
